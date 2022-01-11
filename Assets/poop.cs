@@ -8,6 +8,7 @@ public class poop : MonoBehaviour
     void Start()
     {
         Debug.Log("fuck you");
+        Debug.Log("and fuck you");
     
     }
 
